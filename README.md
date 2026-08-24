@@ -3,12 +3,11 @@
 A Full-Stack Developer.
 
 ### Skills
-
 ### 💻 Languages
-[![Languages](https://skillicons.dev/icons?i=py,js,ts,html)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=py,js,ts,html,css)](https://skillicons.dev)
 
 ### 🌐 Frontend & Backend Frameworks
-[![Frameworks](https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,fastapi)](https://skillicons.dev)
 
 ### 🗄️ Databases
 [![Databases](https://skillicons.dev/icons?i=postgres,mysql,mongodb)](https://skillicons.dev)
@@ -18,7 +17,6 @@ A Full-Stack Developer.
 
 ### 🛠️ Tools & DevOps
 [![Tools](https://skillicons.dev/icons?i=git,postman)](https://skillicons.dev)
----
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/caiocs3569/caiocs3569/output/github-contribution-grid-snake-dark.svg">
