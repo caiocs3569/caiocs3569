@@ -4,8 +4,20 @@ A Full-Stack Developer.
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=py,js,ts,nodejs,postgres,mysql,mongodb,postman,docker,git,linux,fastapi)](https://skillicons.dev)
+### 💻 Languages
+[![Languages](https://skillicons.dev/icons?i=py,js,ts,html)](https://skillicons.dev)
 
+### 🌐 Frontend & Backend Frameworks
+[![Frameworks](https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi)](https://skillicons.dev)
+
+### 🗄️ Databases
+[![Databases](https://skillicons.dev/icons?i=postgres,mysql,mongodb)](https://skillicons.dev)
+
+### ☁️ Cloud & Infrastructure
+[![Cloud](https://skillicons.dev/icons?i=gcp,azure,cloudflare,docker,linux)](https://skillicons.dev)
+
+### 🛠️ Tools & DevOps
+[![Tools](https://skillicons.dev/icons?i=git,postman)](https://skillicons.dev)
 ---
 
 <picture>
