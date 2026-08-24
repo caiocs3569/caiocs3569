@@ -2,7 +2,7 @@
 
 A Full-Stack Developer.
 
-### 🚀 Tecnologias & Ferramentas
+### Skills & Technologies
 
 [![Minhas Skills](https://skillicons.dev/icons?i=js,ts,python,react,nodejs,git,docker,postgres,linux)](https://skillicons.dev)
 
