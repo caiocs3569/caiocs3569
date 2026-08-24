@@ -2,9 +2,9 @@
 
 A Full-Stack Developer.
 
-### Skills & Technologies
+### Skills
 
-[![Minhas Skills](https://skillicons.dev/icons?i=js,ts,python,react,nodejs,git,docker,postgres,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js,ts,nodejs,postgres,mysql,mongodb,postman,docker,git,linux,fastapi)](https://skillicons.dev)
 
 ---
 
