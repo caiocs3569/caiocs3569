@@ -8,8 +8,6 @@ A Full-Stack Developer.
 
 ---
 
-### 🐍 Snake Animation
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/caiocs3569/caiocs3569/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/caiocs3569/caiocs3569/output/github-contribution-grid-snake.svg">
