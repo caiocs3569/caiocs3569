@@ -1,6 +1,6 @@
-# Olá, eu sou o Caio 👋
+# Hey there! I'm Caio
 
-Desenvolvedor Full-Stack
+A Full-Stack Developer.
 
 ### 🚀 Tecnologias & Ferramentas
 
