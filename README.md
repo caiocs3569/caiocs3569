@@ -1,6 +1,6 @@
 # Hey there! I'm Caio
 
-A Full-Stack Developer.
+Full-Stack Developer.
 
 ### Skills
 ### 💻 Languages
